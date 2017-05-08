@@ -35,11 +35,4 @@ paginate_path: /page:num/
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
 api-token:   
 
-#CSS
-sass:
-  style: compressed
-
-
-include: [_pages]
-
 gems: [jekyll-paginate, jekyll-seo-tag]
