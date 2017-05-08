@@ -6,14 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "José Ricardo"
+title: "José Ricardo da Silva"
 title-font-size: '4em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 4em.
 
 email: root@josericardo.eti.br
 description: > # this means to ignore newlines until "baseurl:"
-  Vyaasa is a minimal Jekyll theme meant for writers. Long text posts will look good with this layout. This is a free theme and can be used for all kinds of Jekyll blogs.
+  José Ricardo
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://josericardo.github.io" # the base hostname & protocol for your site
+theme: jekyll-theme-architect
 
 permalink: :title/
 
