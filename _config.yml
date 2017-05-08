@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "José Ricardo da Silva"
+title: "José Ricardo"
 title-font-size: '4em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 4em.
 
 email: root@josericardo.eti.br
 description: > # this means to ignore newlines until "baseurl:"
-  José Ricardo
+  Public brain dump
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://josericardo.github.io" # the base hostname & protocol for your site
 theme: jekyll-theme-architect
